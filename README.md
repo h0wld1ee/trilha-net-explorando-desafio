@@ -1,25 +1,16 @@
-# DIO - Trilha .NET - Explorando a linguagem C#
-www.dio.me
+# Desafio - Sistema de Reserva de Hotel
 
-Sistema de Hospedagem (C#)
+Projeto simples desenvolvido durante o módulo "Explorando a Linguagem C#" da trilha .NET da DIO.
 
-Projeto desenvolvido durante a trilha .NET da DIO para aplicar conceitos de Programação Orientada a Objetos.
+## Objetivo do Projeto
 
-## Funcionalidades
-Cadastro de hóspedes e suítes
-Validação de capacidade
-Cálculo de reserva com desconto para longas estadias
+Aplicação console para simular um sistema de reservas em hotel, trabalhando com classes, relacionamentos entre objetos, validações e regras de negócio.
 
-## Conceitos aplicados
-POO (classes, encapsulamento)
-Regras de negócio
-Manipulação de objetos
+## O que foi praticado
 
+- Modelagem de classes (`Pessoa`, `Suíte` e `Reserva`)
+- Relacionamento entre objetos
+- Validações e tratamento de exceções
+- Cálculos com regras de negócio (desconto de 10% para reservas acima de 10 dias)
 
-## Observação
-
-O projeto teve como base um desafio proposto pela DIO, sendo parte da estrutura inicial fornecida. A implementação das regras de negócio e ajustes foram realizados por mim com foco em aprendizado prático.
-
----
-
-Projeto desenvolvido para fins de aprendizado e evolução técnica.
+**Observação:** Este é um projeto de aprendizado e foi desenvolvido como desafio do curso.
